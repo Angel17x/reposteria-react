@@ -1,0 +1,16 @@
+.navbar-white{
+    background: var(--background-secondary) !important;
+    transition: all ease 400ms !important;
+}
+.navbar-transparent{
+    background: transparent !important;
+    transition: all ease 400ms !important;
+}
+.box-none{
+    box-shadow: none !important;
+    transition: all ease 400ms !important;
+}
+.icon-nav{
+    width: 10rem;
+    height: 5rem;
+}
